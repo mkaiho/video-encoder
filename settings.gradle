@@ -8,3 +8,5 @@
  */
 
 rootProject.name = 'video-encoder'
+include 'apiapp'
+include 'batchapp'
